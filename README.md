@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vivek Bargude</h1>
-<h3 align="center">Software Developer</h3>
-
+<h3 align="center">Android Developer</h3>
+<p align="left"> Enthusiastic Android developer with a strong foundation in Java/Kotlin/Flutter and hands-on experience through
+academic projects and internships. Eager to bring innovative ideas and cutting-edge mobile solutions to life while
+growing within a dynamic development team. Driven by a passion for creating seamless user experiences and a
+commitment to continuous learning in the ever-evolving tech landscape.
+ </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekbargude&label=Profile%20views&color=0e75b6&style=flat" alt="vivekbargude" /> </p>
 
 <h3 align="left">Connect with me:</h3>
