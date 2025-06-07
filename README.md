@@ -5,7 +5,6 @@ growing within a dynamic development team. Driven by a passion for creating seam
 commitment to continuous learning in the ever-evolving tech landscape.
  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekbargude&label=Profile%20views&color=0e75b6&style=flat" alt="vivekbargude" /> </p>
-<a href="https://vivekbargude.github.io/resume/Vivek_Bargude_Resume.pdf" target="blank"> My Professional Resume </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vivekbargude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekbargude" height="30" width="40" /></a>
