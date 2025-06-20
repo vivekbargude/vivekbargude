@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Bargude</h1>
-<p align="left"> Enthusiastic Android developer with a strong foundation in Java/Kotlin/Flutter and hands-on experience through
+<p align="left"> Enthusiastic Android developer with a strong foundation in Java/Flutter and hands-on experience through
 academic projects and internships. Eager to bring innovative ideas and cutting-edge mobile solutions to life while
 growing within a dynamic development team. Driven by a passion for creating seamless user experiences and a
 commitment to continuous learning in the ever-evolving tech landscape.
